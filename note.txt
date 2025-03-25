@@ -1,0 +1,30 @@
+đổi  	"laguage.png" thành "vietnam.png"
+	"logo.png" thành "logo1.png"
+	
+
+	"Fresh Fruit" thành "Bóng đá"
+	"Dried Fruit" thành "Cầu lông"	
+	"Vegetables" thành "Quần vợt/tennis"
+	"drink fruits" thành " Pickleball"
+
+	Featured Product thành " Sản phẩm nổi bật"o
+
+
+	"All" thành " Tất cả"
+	"Oranges" thành "Bóng đá"
+	"Fresh Meat" thành "Cầu lông"
+	"Vegetables" thành "Quần vợt/Tennis"
+	"Fastfood" thành "Pickleball"
+	
+
+	bongda619(Banh Bóng Đá Nike Pitch - Trắng----619.000)
+	bongda410(Bóng đá số 4 UHV 2.05.--410.00)
+	bongda389(Bóng đá Molten F4A1000-A số 4---38900)
+	
+	caulong800(Vợt cầu lông Lining Axforce Cannon Đen – Nội địa Trung-800000)
+	caulong1339 (Vợt cầu lông Yonex Nanoflare 700 Play 2024 – Hàng chính hãng- 1339000)
+	caulong2100(Vợt cầu lông Mizuno Speedflex 7.1 – Hàng cty chính hãng -2100000)
+
+	tennis1899(Vợt Tennis Babolat Evoke Tour 105 (275GR)-121244-1899000)
+
+	pickleball990(Vợt Pickleball Vigorball Professional-990000)
